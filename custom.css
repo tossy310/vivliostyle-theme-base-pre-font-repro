@@ -1,0 +1,5 @@
+/* A theme customizing its monospace text through theme-base's variables. */
+:root {
+  --vs--monospace-font-family: serif;
+  --vs--monospace-line-height: 1;
+}

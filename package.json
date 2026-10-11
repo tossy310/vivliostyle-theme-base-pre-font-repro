@@ -1,0 +1,12 @@
+{
+  "name": "theme-base-pre-font-repro",
+  "private": true,
+  "scripts": {
+    "build": "vivliostyle build",
+    "build:custom": "vivliostyle build --style custom.css -o out/repro-custom.pdf",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "11.3.3"
+  }
+}
